@@ -1,4 +1,4 @@
-## Getting Started
+# Getting Started
 
 Follow these steps to run the app locally.
 
@@ -7,10 +7,11 @@ Follow these steps to run the app locally.
 - [Node.js](https://nodejs.org/) (v18 or higher)
 - [Git](https://git-scm.com/)
 
-### Clone the Repository
+# Clone the Repository
 
 ```bash
 git clone https://github.com/dkr-web/PixelCraft.git
+
 cd PixelCraft
 
 First, run the development server:
