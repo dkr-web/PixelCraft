@@ -16,6 +16,8 @@ cd PixelCraft
 
 First, run the development server:
 
+npm install
+
 ```bash
 npm run dev
 # or
